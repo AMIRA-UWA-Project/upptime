@@ -1,7 +1,7 @@
 url: https://tailingsmonitoring.systemhealthlab.com/
-status: up
-code: 200
-responseTime: 1584
-lastUpdated: 2021-11-06T23:05:36.757Z
+status: down
+code: 502
+responseTime: 958
+lastUpdated: 2021-11-07T13:27:09.861Z
 startTime: Mon Aug 10 2020 07:54:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
