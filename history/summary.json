@@ -1,29 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Tailings Monitoring Website",
     "url": "https://tailingsmonitoring.systemhealthlab.com/",
     "icon": "https://favicons.githubusercontent.com/tailingsmonitoring.systemhealthlab.com",
-    "slug": "google",
+    "slug": "tailings-monitoring-website",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.87%",
-    "time": 1714,
-    "timeDay": 1396,
-    "timeWeek": 1534,
-    "timeMonth": 1676,
-    "timeYear": 1714,
-    "dailyMinutesDown": {
-      "2021-12-13": 9,
-      "2021-11-22": 17,
-      "2021-11-14": 16,
-      "2021-11-07": 16,
-      "2021-11-04": 17,
-      "2021-08-22": 111,
-      "2021-08-04": 18,
-      "2021-08-03": 460
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
