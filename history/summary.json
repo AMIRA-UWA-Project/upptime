@@ -4,18 +4,19 @@
     "url": "https://tailingsmonitoring.systemhealthlab.com/",
     "icon": "https://favicons.githubusercontent.com/tailingsmonitoring.systemhealthlab.com",
     "slug": "tailings-monitoring-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1517,
-    "timeDay": 1194,
-    "timeWeek": 1295,
-    "timeMonth": 1425,
-    "timeYear": 1517,
+    "time": 1552,
+    "timeDay": 3061,
+    "timeWeek": 1749,
+    "timeMonth": 1546,
+    "timeYear": 1552,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2021-12-13": 17
     }
   }
