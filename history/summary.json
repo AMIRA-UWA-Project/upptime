@@ -4,7 +4,7 @@
     "url": "https://tailingsmonitoring.systemhealthlab.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tailingsmonitoring.systemhealthlab.com.ico",
     "slug": "tailings-monitoring-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1543,
     "timeYear": 1463,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-04-01": 369,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
