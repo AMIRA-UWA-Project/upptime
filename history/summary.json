@@ -6,17 +6,16 @@
     "slug": "tailings-monitoring-website",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
     "time": 1408,
-    "timeDay": 2707,
-    "timeWeek": 1939,
-    "timeMonth": 1608,
+    "timeDay": 2615,
+    "timeWeek": 1917,
+    "timeMonth": 1606,
     "timeYear": 1509,
     "dailyMinutesDown": {
-      "2024-10-15": 11,
       "2024-04-01": 369,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -24,8 +23,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1377,
       "2023-12-03": 72,
-      "2023-12-02": 67,
-      "2023-10-17": 17
+      "2023-12-02": 67
     }
   }
 ]
